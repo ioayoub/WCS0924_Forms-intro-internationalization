@@ -1,0 +1,10 @@
+{
+  "navbar": {
+    "home": "Home",
+    "contact": "Contact-us"
+  },
+  "homepage": {
+    "maintitle": "Home page",
+    "description": "The most awesome website on the internet !"
+  }
+}

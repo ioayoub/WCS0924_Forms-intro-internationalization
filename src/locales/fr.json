@@ -1,0 +1,10 @@
+{
+  "navbar": {
+    "home": "Accueil",
+    "contact": "Contactez-nous"
+  },
+  "homepage": {
+    "maintitle": "Page d'accueil",
+    "description": "Salut ceci est un super site !"
+  }
+}
